@@ -27,7 +27,7 @@ I'm a passionate Informatics Engineering Student with a focus on building impact
   > A web app to report vulnerable citizens to the civil registry office. Built with Laravel and tailored for Dukcapil.
 
 - 🌱 [**Drip Irrigation Monitoring**](link-ke-repo)
-  > A smart irrigation system using sensors and web control. Finalist in OLIVIA Competition.
+  > A smart irrigation system using sensors and web control.
 
 - 🎮 [**Dino Game Remake**](link-ke-repo)
   > A creative reimagining of the Chrome Dino game using Unity.
