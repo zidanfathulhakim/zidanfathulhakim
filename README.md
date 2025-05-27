@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Zidan Fathul Hakim 👨‍💻
 
-I'm a passionate Informatics Engineering Student with a focus on building impactful and user-friendly applications. Currently diving deep into [current interest/domain] and always eager to learn and contribute to meaningful tech projects.
+I'm a passionate Informatics Engineering Student with a focus on building impactful and user-friendly applications. Currently diving deep into backend development and always eager to learn and contribute to meaningful tech projects.
 
 ---
 
