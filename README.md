@@ -1,14 +1,12 @@
-# 👋 Hi there! I'm [Nama Kamu] 👨‍💻
+# 👋 Hi there! I'm Zidan Fathul Hakim 👨‍💻
 
-I'm a passionate [Your Role - e.g., Software Developer, Full Stack Developer, Informatics Engineering Student] with a focus on building impactful and user-friendly applications. Currently diving deep into [current interest/domain] and always eager to learn and contribute to meaningful tech projects.
+I'm a passionate Informatics Engineering Student with a focus on building impactful and user-friendly applications. Currently diving deep into [current interest/domain] and always eager to learn and contribute to meaningful tech projects.
 
 ---
 
 ### 💼 Current Focus
-- 🎓 Studying at [Nama Kampus atau Program]
-- 💻 Intern at [Nama Perusahaan, jika ada]
-- 🔧 Working on: [nama proyek, bisa disertai link]
-- 📚 Learning: [teknologi yang sedang dipelajari, misalnya Laravel, REST API, React, dll.]
+- 🎓 Studying at Universitas Sebelas Maret
+- 📚 Learning: Laravel, REST API, React, etc.
 
 ---
 
@@ -37,23 +35,14 @@ I'm a passionate [Your Role - e.g., Software Developer, Full Stack Developer, In
 ---
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zidanfathulhakim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zidanfathul_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidanfathul04@email.com)
 
 ---
 
 _Thank you for visiting my GitHub profile! Let's build something great together._
 
-
-
-- 👋 Hi, I’m @zidanfathulhakim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 zidanfathulhakim/zidanfathulhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
