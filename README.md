@@ -5,8 +5,9 @@ I'm a passionate Informatics Engineering Student with a focus on building impact
 ---
 
 ### 💼 Current Focus
-- 🎓 Studying at Universitas Sebelas Maret
-- 📚 Learning: Laravel, REST API, React, etc.
+- 🎓 Graduate of Universitas Sebelas Maret
+- 💼 Currently interning at PT Kawasan Industri Wijayakusuma
+- 📚 Learning Laravel, REST APIs, React, and other web development technologies
 
 ---
 
