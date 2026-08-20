@@ -7,7 +7,7 @@ I'm a Web Developer interested in building reliable, user-friendly, and maintain
 ### About Me
 
 * 🎓 Informatics Engineering Graduate — Universitas Sebelas Maret
-* 💼 Currently Interning at PT Total Kilat Solutions
+* 💼 Currently Working at PT Total Kilat Solutions
 * 🌐 Interested in Web Development, and REST APIs
 * 🔧 Currently working with Laravel, Vue.js, and modern web technologies
 
