@@ -7,19 +7,13 @@ I'm a Web Developer interested in building reliable, user-friendly, and maintain
 ### About Me
 
 * 🎓 Informatics Engineering Graduate — Universitas Sebelas Maret
-* 💼 Currently Interning at PT Kawasan Industri Wijayakusuma
-* 🌐 Interested in Web Development, Backend Development, and REST APIs
+* 💼 Currently Interning at PT Total Kilat Solutions
+* 🌐 Interested in Web Development, and REST APIs
 * 🔧 Currently working with Laravel, Vue.js, and modern web technologies
 
 ### Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,mysql,git,github,vscode)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidanfathulhakim\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanfathulhakim\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ### Connect With Me
 
