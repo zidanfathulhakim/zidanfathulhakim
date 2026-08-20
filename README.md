@@ -1,51 +1,28 @@
-# 👋 Hi there! I'm Zidan Fathul Hakim 👨‍💻
+# Zidan Fathul Hakim
 
-I'm a passionate Informatics Engineering Student with a focus on building impactful and user-friendly applications. Currently diving deep into backend development and always eager to learn and contribute to meaningful tech projects.
+**Web Developer · Informatics Engineering Graduate**
 
----
+I'm a Web Developer interested in building reliable, user-friendly, and maintainable web applications. I enjoy learning new technologies and turning ideas into practical solutions.
 
-### 💼 Current Focus
-- 🎓 Graduate of Universitas Sebelas Maret
-- 💼 Currently interning at PT Kawasan Industri Wijayakusuma
-- 📚 Learning Laravel, REST APIs, React, and other web development technologies
+### About Me
 
----
+* 🎓 Informatics Engineering Graduate — Universitas Sebelas Maret
+* 💼 Currently Interning at PT Kawasan Industri Wijayakusuma
+* 🌐 Interested in Web Development, Backend Development, and REST APIs
+* 🔧 Currently working with Laravel, Vue.js, and modern web technologies
 
-### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,mysql,git,github,vscode)
+### Tech Stack
 
----
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,mysql,git,github,vscode)
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+### GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidanfathulhakim\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-### 📂 Featured Projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanfathulhakim\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-- 🧾 [**Make Petan Tuma**](link-ke-repo)
-  > A web app to report vulnerable citizens to the civil registry office. Built with Laravel and tailored for Dukcapil.
+### Connect With Me
 
-- 🌱 [**Drip Irrigation Monitoring**](link-ke-repo)
-  > A smart irrigation system using sensors and web control.
-
-- 🎮 [**Dino Game Remake**](link-ke-repo)
-  > A creative reimagining of the Chrome Dino game using Unity.
-
----
-
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zidanfathulhakim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zidanfathul_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidanfathul04@email.com)
-
----
-
-_Thank you for visiting my GitHub profile! Let's build something great together._
-
-
-<!---
-zidanfathulhakim/zidanfathulhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/zidanfathulhakim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/zidanfathul_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:zidanfathul04@email.com)
